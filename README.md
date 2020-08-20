@@ -1,7 +1,7 @@
-### BloGGing
+# BloGGing
 BloGGing App Using NodeJs, ExpressJs, MongoDB
 
-# Requirements
+### Requirements
 
 For development, you will only need Node.js and a node global package, npm, installed in your environement.
 
